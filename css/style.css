@@ -1,0 +1,61 @@
+.elso td:nth-child(odd)
+{
+     background-color: black;
+
+}
+.harmadik td:nth-child(odd)
+{
+    background-color: black;
+
+}
+
+.otodik td:nth-child(odd)
+{
+    background-color: black;
+
+}
+
+.hetedik td:nth-child(odd)
+{
+    background-color: black;
+
+}
+
+.hetedik td:nth-child(odd)
+{
+    background-color: black;
+
+}
+
+.masoidk td:nth-child(even)
+{
+    background-color: black;
+
+}
+.negyedik td:nth-child(even)
+{
+    background-color: black;
+
+}
+
+.hatodik td:nth-child(even)
+{
+    background-color: black;
+
+}
+
+.nyolcadik td:nth-child(even)
+{
+    background-color: black;
+
+}
+
+
+td{
+    
+    padding: 15px;
+}
+
+table{
+    border: solid;
+}
