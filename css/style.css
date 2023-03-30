@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+  }
+  table {
+    border-collapse: collapse;
+    margin: 0 auto; /* Táblázat középre igazítása */
+  }
+  
+  td {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+  }
+  tr:nth-child(odd) td:nth-child(odd),
+  tr:nth-child(even) td:nth-child(even) {
+    background-color: #f0d9b5; /* Világos cellák színe */
+  }
+  
+  tr:nth-child(odd) td:nth-child(even),
+  tr:nth-child(even) td:nth-child(odd) {
+    background-color: #b58863; /* Sötét cellák színe */
+  }
+      
