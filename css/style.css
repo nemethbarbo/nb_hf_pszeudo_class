@@ -7,13 +7,19 @@
 }
 
 .sakkTabla td {
-  border: 1px solid;
-  width: 2em;
-  height: 1em;
+  border: 2px solid;
+  width: 50px;
+  height: 50px;
 }
 .sakkTabla .feher {
   background: white;
 }
 .sakkTabla .fekete {
   background: black;
+}
+
+.kozep {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
