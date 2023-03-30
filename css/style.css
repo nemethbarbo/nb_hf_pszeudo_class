@@ -1,0 +1,19 @@
+.sakkTabla {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+.sakkTabla th {
+  padding: 1em;
+}
+
+.sakkTabla td {
+  border: 1px solid;
+  width: 2em;
+  height: 1em;
+}
+.sakkTabla .feher {
+  background: white;
+}
+.sakkTabla .fekete {
+  background: black;
+}
