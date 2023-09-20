@@ -18,3 +18,9 @@ td {
 tr:nth-child(odd) td:nth-child(even), tr:nth-child(even) td:nth-child(odd) {
 	background: white;
     }
+
+tr:nth-of-type(7) td {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/04/Chess_plt60.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
